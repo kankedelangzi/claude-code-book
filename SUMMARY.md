@@ -66,6 +66,13 @@
 - 9.2 常用 MCP 服务器
 - 9.3 MCP 实战案例
 
+## 第十章：团队协作与部署
+
+- 10.1 团队采用 Claude Code 的最佳实践
+- 10.2 用 Claude Code 做代码审查
+- 10.3 Claude Code 与 CI/CD 集成
+- 10.4 团队知识库：用 Claude Code 生成文档
+
 ## 附录
 
 - A 速查表与模板
