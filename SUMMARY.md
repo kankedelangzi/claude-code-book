@@ -85,6 +85,7 @@
 
 - 12.1 Vibe-Coding 对话式编程工作流
 - 12.2 Claude Code 最新最佳实践（2026版）
+- 12.3 Claude Code 2026-05 最新功能：Agent View 与 /goal
 
 ## 附录
 
