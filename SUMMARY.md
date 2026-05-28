@@ -87,6 +87,8 @@
 - 12.1 Vibe-Coding 对话式编程工作流
 - 12.2 Claude Code 最新最佳实践（2026版）
 - 12.3 Claude Code 2026-05 最新功能：Agent View 与 /goal
+- 12.4 Claude Code 2026 Managed-Agents 三大核心进化
+- 12.5 官方插件实战：用 Anthropic 官方插件扩展能力
 
 ## 附录
 
